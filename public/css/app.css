@@ -1,0 +1,96 @@
+html, body{
+    font-family: 'Oswald', sans-serif !important;
+}
+
+#main-container{
+    position: relative;
+    background: #ef5350;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+.brand-logo{
+    height: 100px;
+}
+
+.brand-logo img{
+    height: 100%;
+    padding: 10px;
+}
+
+header{
+    z-index: 2;
+}
+
+nav {
+    padding: 0 25px;
+    height: 100px !important;
+    line-height: 100px !important;
+}
+
+nav ul a{
+    font-size: 20px !important;
+    position: relative;
+}
+
+nav ul a.active:after{
+    background: #ef5350;
+    content: '';
+    width: 100%;
+    position: absolute;
+    height: 3px;
+    left: 0;
+    bottom: 25px;
+}
+
+a.sidenav-trigger, a.sidenav-trigger i{
+    height: 100px !important;
+    line-height: 100px !important;
+    font-size: 40px !important;
+}
+
+.nav-wrapper{
+    height: 100px !important;
+}
+
+.white-background-shape{
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    min-width: 1540px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.lang-select-container {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.lang-select-container .input-field{
+    height: 52px !important;
+    width: 42px !important;
+}
+
+.about-content{
+    margin-top: 15vh !important;
+}
+
+.white-background-shape{
+
+}
+
+@media(max-width: 993px){
+    .about-content{
+        background: white;
+        padding: 15px;
+        margin: 25px auto !important;
+        border-radius: 10px;
+    }
+
+    .white-background-shape{
+        display: none;
+    }
+}

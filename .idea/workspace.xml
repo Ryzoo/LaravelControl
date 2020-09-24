@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd8a23a0-e1c7-49e9-9870-f9bb02078968" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1hy4h1WM0BgxvxEhBaGxFWGSHVn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl\resources\views\layout" />
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl\resources\views\blade" />
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl\public\images" />
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl\resources\views\pages" />
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl\resources\lang" />
+      <recent name="C:\Users\gkast\PhpstormProjects\LaravelControl" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd8a23a0-e1c7-49e9-9870-f9bb02078968" name="Default Changelist" comment="" />
+      <created>1600970114064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600970114064</updated>
+      <workItem from="1600970116508" duration="18531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="306" key="#Log_Highlighting_(ideolog)" timestamp="1600984691726">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="708" y="306" key="#Log_Highlighting_(ideolog)/74.0.1846.1080@74.0.1846.1080" timestamp="1600984691726" />
+    <state x="789" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600971616950">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="789" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/74.0.1846.1080@74.0.1846.1080" timestamp="1600971616950" />
+    <state x="727" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600973424453">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="727" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/74.0.1846.1080@74.0.1846.1080" timestamp="1600973424453" />
+    <state x="727" y="294" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600976004368">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="727" y="294" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/74.0.1846.1080@74.0.1846.1080" timestamp="1600976004368" />
+    <state x="777" y="294" key="FileChooserDialogImpl" timestamp="1600973352162">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="777" y="294" key="FileChooserDialogImpl/74.0.1846.1080@74.0.1846.1080" timestamp="1600973352162" />
+    <state x="831" y="464" key="NewPhpFileDialog" timestamp="1600973608253">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="831" y="464" key="NewPhpFileDialog/74.0.1846.1080@74.0.1846.1080" timestamp="1600973608253" />
+    <state x="498" y="184" key="SettingsEditor" timestamp="1600975892042">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="498" y="184" key="SettingsEditor/74.0.1846.1080@74.0.1846.1080" timestamp="1600975892042" />
+    <state x="705" y="277" width="583" height="526" key="find.popup" timestamp="1600987222851">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="705" y="277" width="583" height="526" key="find.popup/74.0.1846.1080@74.0.1846.1080" timestamp="1600987222851" />
+  </component>
+</project>
