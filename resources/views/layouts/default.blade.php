@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Laravel Control | @yield('title')</title>
         <meta name="description" content="@yield('description')">
+        <link rel="icon" type="image/svg" href="images/fav.svg">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap" rel="stylesheet">
         <link href="{{ (env('APP_ENV') === 'development') ? mix('css/app.css') : asset('css/app.css') }}" rel="stylesheet">
