@@ -1,5 +1,4 @@
 html, body{
-    font-family: 'Oswald', sans-serif !important;
 }
 
 #main-container{
@@ -7,6 +6,7 @@ html, body{
     background: #ef5350;
     overflow-x: hidden;
     min-height: 100vh;
+    background: url(/images/background.webp?dd1b2ee12e4efb6bcd5a08117ce11b4a);
 }
 
 .brand-logo{
@@ -15,7 +15,7 @@ html, body{
 
 .brand-logo img{
     height: 100%;
-    padding: 10px;
+    padding: 20px;
 }
 
 header{
@@ -29,8 +29,8 @@ nav {
 }
 
 nav ul a{
-    font-size: 20px !important;
     position: relative;
+    padding: 0 10px !important;
 }
 
 nav ul a.active:after{
@@ -79,7 +79,7 @@ a.sidenav-trigger, a.sidenav-trigger i{
 }
 
 .white-background-shape{
-
+    z-index: -1;
 }
 
 @media(max-width: 993px){
